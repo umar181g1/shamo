@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008719884705",
+    "project_id": "shamo-59fc9",
+    "storage_bucket": "shamo-59fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008719884705:android:2dc5deff9a002f77a9dbe0",
+        "android_client_info": {
+          "package_name": "com.umar.shamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008719884705-s6b7mgptv3mlosdj3rorefuhendlug7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTslgUPG6vdQl4K5BjTTIHrVDZU-BFVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008719884705-s6b7mgptv3mlosdj3rorefuhendlug7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
